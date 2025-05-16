@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive simulated Morality Similarity Networks (MFQ-2)</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Übersicht: Interaktive Moralische Ähnlichkeitsnetzwerke</h1>
+    <p>Choose one network to visualize:</p>
+    <ul>
+        <li><a href="./interactive_network_Care.html">Netzwerk für Care</a></li>
+        <li><a href="./interactive_network_Equality.html">Netzwerk für Equality</a></li>
+        <li><a href="./interactive_network_Proportionality.html">Netzwerk für Proportionality</a></li>
+        <li><a href="./interactive_network_Loyalty.html">Netzwerk für Loyalty</a></li>
+        <li><a href="./interactive_network_Authority.html">Netzwerk für Authority</a></li>
+        <li><a href="./interactive_network_Purity.html">Netzwerk für Purity</a></li>
+        </ul>
+</body>
+</html>
